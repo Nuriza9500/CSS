@@ -1,0 +1,65 @@
+/* Жалпы стильдер */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f0f8ff;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+/* Башкы бөлүм */
+header {
+  background-color: #005a99;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+header h1 {
+  margin: 0;
+  font-size: 28px;
+}
+
+/* Контент */
+.container {
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px;
+}
+
+h2 {
+  color: #005a99;
+  border-bottom: 2px solid #005a99;
+  padding-bottom: 5px;
+  margin-top: 30px;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+ul {
+  list-style-type: square;
+  padding-left: 20px;
+  font-size: 17px;
+}
+
+/* Байланыш бөлүмү */
+.contact-info {
+  background-color: #e6f2ff;
+  padding: 15px;
+  border-left: 4px solid #007acc;
+  margin-top: 20px;
+}
+
+/* Footer */
+footer {
+  background-color: #005a99;
+  color: white;
+  text-align: center;
+  padding: 15px 0;
+  margin-top: 40px;
+  font-size: 14px;
+}
